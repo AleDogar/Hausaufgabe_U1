@@ -51,4 +51,18 @@ public class NoteUtils {
 
         return abgerundet;
     }
+
+    // 4. Maximale abgerundete Note
+    public int getMaxAbgerundeteNote(int[] noten) {
+        int[] abgerundet = getAbgerundeteNoten(noten);
+        int max = abgerundet[0];
+
+        for (int i = 1; i < abgerundet.length; i++) {
+            if (abgerundet[i] > max) {
+                max = abgerundet[i];
+            }
+        }
+
+        return max;
+    }
 }

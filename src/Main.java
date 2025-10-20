@@ -18,6 +18,10 @@ public class Main {
         // 3. Abgerundete Noten nach Regeln
         int[] abgerundet = noteUtils.getAbgerundeteNoten(noten);
         System.out.println("Abgerundete Noten: " + Arrays.toString(abgerundet));
+
+        // 4. Maximale abgerundete Note
+        int maxAbgerundet = noteUtils.getMaxAbgerundeteNote(noten);
+        System.out.println("Maximale abgerundete Note: " + maxAbgerundet);
     }
 
     public static void main(String[] args) {
