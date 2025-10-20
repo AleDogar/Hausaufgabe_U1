@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6de1361-5e69-442d-8406-7938b4d87eaf" name="Changes" comment="subpunctul 1">
+    <list default="true" id="c6de1361-5e69-442d-8406-7938b4d87eaf" name="Changes" comment="subpunctul 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NoteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoteUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760978914055</updated>
-      <workItem from="1760978917238" duration="1797000" />
+      <workItem from="1760978917238" duration="3044000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1760979036002</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760980493422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="subpunctul 2">
+      <created>1760981502817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760981502817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="subpunctul 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="subpunctul 1" />
+    <MESSAGE value="subpunctul 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="subpunctul 2" />
   </component>
 </project>

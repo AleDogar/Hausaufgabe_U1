@@ -14,6 +14,10 @@ public class Main {
         // 2. Durchschnittswert
         double durchschnitt = noteUtils.getDurchschnitt(noten);
         System.out.println("Durchschnittswert: " + durchschnitt);
+
+        // 3. Abgerundete Noten nach Regeln
+        int[] abgerundet = noteUtils.getAbgerundeteNoten(noten);
+        System.out.println("Abgerundete Noten: " + Arrays.toString(abgerundet));
     }
 
     public static void main(String[] args) {
